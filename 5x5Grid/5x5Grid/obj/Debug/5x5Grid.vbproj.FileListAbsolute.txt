@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\bin\Debug\Elec3-5x5Grid.exe.config
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\bin\Debug\Elec3-5x5Grid.exe
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\bin\Debug\Elec3-5x5Grid.pdb
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\bin\Debug\Elec3-5x5Grid.xml
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\5x5Grid.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\Elec3_5x5Grid.Form1.resources
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\Elec3_5x5Grid.Resources.resources
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\5x5Grid.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\Elec3-5x5Grid.exe
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\Elec3-5x5Grid.xml
+C:\Users\Admin\source\repos\5x5Grid\5x5Grid\obj\Debug\Elec3-5x5Grid.pdb
